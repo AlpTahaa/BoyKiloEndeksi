@@ -7,7 +7,7 @@ internal class Program
     public static void Main(string[] args)
     {
 
-        Console.WriteLine("Vücut Kitle Endeksine Hoş Geldiniz");
+        Console.WriteLine("Vücut Kitle Endeksine Hoş Geldiniz!");
         Console.WriteLine("Kilonuzu Giriniz?");
         int kilo = Convert.ToInt32(Console.ReadLine());
        
